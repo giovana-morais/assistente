@@ -2,7 +2,6 @@
 
 <!--- See https://shields.io --->
 ![GitHub repo size](https://img.shields.io/github/repo-size/giovana-morais/assistente?style=plastic)
-![GitHub contributors](https://img.shields.io/github/contributors/giovana-morais/assistente?style=plastic)
 ![GitHub stars](https://img.shields.io/github/stars/giovana-morais/assistente?style=plastic)
 ![Twitter Follow](https://img.shields.io/twitter/follow/ohshitgi?style=social)
 
